@@ -1,0 +1,22 @@
+INSERT INTO Customers (CustomerName, Gender, City, JoinDate)
+VALUES
+('Arun','Male','Chennai','2024-01-10'),
+('Priya','Female','Madurai','2024-01-12'),
+('Karthik','Male','Coimbatore','2024-01-15'),
+('Divya','Female','Salem','2024-01-18'),
+('Rahul','Male','Trichy','2024-01-20'),
+('Anitha','Female','Chennai','2024-01-22'),
+('Vijay','Male','Madurai','2024-01-25'),
+('Sneha','Female','Coimbatore','2024-01-28'),
+('Ajay','Male','Salem','2024-02-01'),
+('Meena','Female','Trichy','2024-02-05'),
+('Suresh','Male','Chennai','2024-02-10'),
+('Kavya','Female','Madurai','2024-02-12'),
+('Ramesh','Male','Coimbatore','2024-02-15'),
+('Nisha','Female','Salem','2024-02-18'),
+('Prakash','Male','Trichy','2024-02-20'),
+('Deepa','Female','Chennai','2024-02-25'),
+('Hari','Male','Madurai','2024-03-01'),
+('Pooja','Female','Coimbatore','2024-03-05'),
+('Manoj','Male','Salem','2024-03-10'),
+('Keerthi','Female','Trichy','2024-03-15');

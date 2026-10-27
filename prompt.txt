@@ -1,0 +1,26 @@
+I am working on a project about: [YOUR TOPIC HERE]
+
+Please do the following:
+
+1. PROBLEM STATEMENT
+   - Write a clear problem statement for my topic
+   - Explain what business/real-world problem this database will solve
+   - List 5 key questions this database should be able to answer
+
+2. SOLUTION OVERVIEW
+   - Explain how a relational database solves this problem
+   - List all the entities (tables) needed with a one-line description of each
+
+3. DATABASE DESIGN
+   - Create a minimum of 5-7 related tables
+   - Every table must have a PRIMARY KEY
+   - Use FOREIGN KEYs to link related tables
+   - Use PostgreSQL syntax (SERIAL for auto-increment, NUMERIC for decimals)
+   - Include relevant constraints (NOT NULL, DEFAULT, CHECK where needed)
+
+4. SAMPLE DATA
+   - Insert minimum 100 rows total across all tables
+   - Make the data realistic and varied (not just "Test1, Test2")
+   - Include edge cases: some inactive records, some high-value records,
+     some recent and some old dates
+   - Data must reflect real-world patterns for my topic
